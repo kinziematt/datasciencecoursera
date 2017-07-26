@@ -1,6 +1,6 @@
 # Course Project 1
 
-#1. The code for reading and processing the data is:  
+#1. The code for reading and processing our data is:  
 
 ```r
 data<-read.csv("project 1 data.csv")

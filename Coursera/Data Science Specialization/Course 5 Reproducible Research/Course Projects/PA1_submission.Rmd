@@ -5,7 +5,7 @@ output:
     keep_md: yes
 ---
 
-#1. The code for reading and processing the data is:  
+#1. The code for reading and processing our data is:  
 ```{r load, echo=TRUE}
 data<-read.csv("project 1 data.csv")
 ```
